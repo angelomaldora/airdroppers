@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "postgres",
-  PASSWORD: "123",
-  DB: "testdb",
+  HOST: "ep-blue-meadow-a2cqxbbt.eu-central-1.pg.koyeb.app",
+  USER: "koyeb-adm",
+  PASSWORD: "q7xhiOLdFZR9",
+  DB: "koyebdb",
   dialect: "postgres",
   pool: {
     max: 5,
